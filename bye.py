@@ -1,0 +1,8 @@
+from curses import ncurses_version
+
+
+axcjnzmcsdfcjn
+ekfdmslzcsh
+keklsdcnjldc
+kednks,ncurses_versionjfncksdkj
+ndsknck
